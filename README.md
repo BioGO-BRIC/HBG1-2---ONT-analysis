@@ -72,9 +72,9 @@ Each per-sample CSV and the final merged table contain the following columns:
 
 👩‍🔬 Author
 
-Camille Bergès
-PharmD, PhD candidate
-camille.berges@u-bordeaux.fr
+Camille Bergès  
+PharmD, PhD candidate  
+camille.berges@u-bordeaux.fr  
 
 Date of last update: 30 July 2025
 
