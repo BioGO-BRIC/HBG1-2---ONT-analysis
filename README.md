@@ -30,7 +30,8 @@ pysam 0.22.0
 pandas 2.3.1  
 Python 3.13.2  
 
-1. **global_HBG1-2_analyse_30.07.25.py**  
+1. **global_HBG1-2_analyse_30.07.25.py**
+  
 This script processes .sorted.bam files aligned to chr11, classifies reads based on:
 
 - 5 kb deletion size and breakpoints
@@ -47,6 +48,7 @@ python3 global_HBG1-2_analyse_30.07.25.py
 Note: Each subfolder (e.g., barcode01/) should contain a file named *.sorted.bam.
 
 2. **merge_crispr_results.30.07.25.py**  
+  
 This script searches all subfolders (starting with barcode) for *_resumed_outcomes_CRISPR.csv files and merges selected columns into a global summary file: Global_resumed_outcomes_CRISPR.csv
 
 Run with:
