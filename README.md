@@ -25,10 +25,10 @@ The pipeline was developed as part of a functional assessment of deletion and in
 - [pysam](https://pysam.readthedocs.io/en/latest/)  
 - [pandas](https://pandas.pydata.org/)
   
-Tested with:
-pysam 0.22.0
-pandas 2.3.1
-Python 3.13.2
+Tested with:  
+pysam 0.22.0   
+pandas 2.3.1  
+Python 3.13.2  
 
 1. **global_HBG1-2_analyse_30.07.25.py**
 This script processes .sorted.bam files aligned to chr11, classifies reads based on:
