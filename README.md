@@ -26,7 +26,7 @@ bash Script_EPI2ME_like_31.07.25.sh
    
 Requirements: minimap2, samtools
 
-
+...
 ## ⚙️ Requirements
 
 - Python ≥ 3.7  
