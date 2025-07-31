@@ -18,7 +18,7 @@ The pipeline was developed as part of a functional assessment of deletion and in
 ...
 ```
 
-### 🔁 Preprocessing & Alignment
+## 🔁 Preprocessing & Alignment
 
 Run the following Bash script to merge and align your `.fastq.gz` files:
 
@@ -81,7 +81,7 @@ Each per-sample CSV and the final merged table contain the following columns:
 
 
 
-##👩‍🔬 Author
+## 👩‍🔬 Author
 
 Camille Bergès  
 PharmD, PhD candidate  
