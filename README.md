@@ -17,6 +17,7 @@ The pipeline was developed as part of a functional assessment of deletion and in
 └── Global_resumed_outcomes_CRISPR.csv ← output summary table
 ...
 ```
+```
 ### 🔁 Preprocessing & Alignment
 
 Run the following Bash script to merge and align your `.fastq.gz` files:
@@ -26,7 +27,7 @@ bash Script_EPI2ME_like_31.07.25.sh
 ```
 Requirements: 'minimap2', 'samtools'
 
-
+```
 
 ## ⚙️ Requirements
 
