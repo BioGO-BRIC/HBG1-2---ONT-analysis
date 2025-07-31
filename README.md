@@ -90,6 +90,10 @@ camille.berges@u-bordeaux.fr
 Date of last update: 30 July 2025
 
 📄 License
-MIT License – free to use, adapt, and cite. Please acknowledge the original author in any derivative work.
+
+This project is licensed under the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.  
+You are free to copy, modify, distribute and use the code, even for commercial purposes, without asking permission.
+
+Citation or acknowledgment of the original author is appreciated. 
 
 ---
