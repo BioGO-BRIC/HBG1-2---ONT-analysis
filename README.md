@@ -81,7 +81,7 @@ Each per-sample CSV and the final merged table contain the following columns:
 
 
 
-👩‍🔬 Author
+##👩‍🔬 Author
 
 Camille Bergès  
 PharmD, PhD candidate  
