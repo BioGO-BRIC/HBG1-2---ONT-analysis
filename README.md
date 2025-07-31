@@ -28,7 +28,7 @@ bash Script_EPI2ME_like_31.07.25.sh
 Requirements: 'minimap2', 'samtools'
 
 
-## ⚙️ Requirements
+## ⚙️ Analyze
 
 - Python ≥ 3.7  
 - [pysam](https://pysam.readthedocs.io/en/latest/)  
